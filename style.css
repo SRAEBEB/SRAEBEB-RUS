@@ -1,0 +1,30 @@
+body{
+	background-image: url("https://i.ytimg.com/vi/odDCqjhxDwY/maxresdefault.jpg");
+}
+h1{
+	font-family: Segoe UI;
+	color: darkred;
+	text-align: center;
+}
+h3{
+	font-size: 50px;
+	color: darkred;
+	text-align: center;
+}
+a{
+	font-size: 50px;
+	color: #1A1A1A;
+	text-decoration: none;
+	font-family: monospace;
+	text-align: center;
+}
+p{
+	color: darkred;
+	text-align: center;
+}
+
+h2{
+	font-family: monospace;
+	color: grey;
+	text-align: center;
+}
